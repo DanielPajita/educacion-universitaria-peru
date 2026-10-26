@@ -1,0 +1,12 @@
+# Datos locales: incorporar únicamente documentación revisada.
+/2_Datos/**
+!/2_Datos/**/
+!/2_Datos/**/README.md
+# Archivos locales y temporales
+/configuracion_local.do
+*.log
+*.smcl
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
