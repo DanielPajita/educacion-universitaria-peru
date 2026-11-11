@@ -1,14 +1,21 @@
 # Datos del proyecto
 
-Las subcarpetas están reservadas para insumos locales. No se han copiado datos.
+El estudio utilizará los censos universitarios de 1996 y 2010 y los datos de TUNI para los períodos 2020–2025, previa revisión de su disponibilidad, cobertura y comparabilidad. Las bases originales no se incluyen en este repositorio.
 
-- `Censo_1996`: archivos originales y documentación del censo de 1996.
-- `Censo_2010`: archivos originales y documentación del censo de 2010.
-- `TUNI_2020_2025`: archivos separados por período, conservando sus nombres originales.
-- `Correspondencias_entre_clasificaciones`: tablas elaboradas para relacionar categorías, sujetas a revisión antes de publicar.
+## Fuentes y acceso
 
-Conservar originales intactos y registrar procedencia, versión, fecha de obtención y, cuando sea posible, huella SHA-256. Guardar transformaciones en una subcarpeta local `Datos_preparados`.
+### Censo universitario de 1996
 
-El archivo `.gitignore` excluye todo el contenido de esta carpeta excepto los documentos README. Las correspondencias también se revisarán antes de incorporarlas expresamente a Git.
+El INEI publica un [panorama del censo](https://proyectos.inei.gob.pe/web/biblioineipub/bancopub/Est/Lib0074/CAP2-22.htm), con información sobre sus objetivos, cobertura y características.
 
-Antes de distribuir datos, verificar condiciones de uso e identificadores personales. Una fuente de acceso público no implica automáticamente permiso para redistribuir sus archivos.
+La base de datos no está disponible para descarga directa en la web. Se obtiene mediante solicitud al INEI por su canal de datos abiertos.
+
+### Censo universitario de 2010
+
+La base y su documentación están disponibles en el [Sistema de Microdatos del INEI](https://proyectos.inei.gob.pe/microdatos/).
+
+### TUNI 2020–2025
+
+Los archivos están disponibles en la [sección de datos abiertos de TUNI](https://tuni.pe/datos).
+
+Se verificará la disponibilidad y cobertura de cada período antes de incorporarlo al análisis.
