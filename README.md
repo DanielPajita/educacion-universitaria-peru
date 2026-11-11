@@ -30,7 +30,7 @@ Los años identifican fuentes previstas; no implican una serie anual homogénea 
 
 - `1_Preguntas_y_documentacion`: preguntas, fuentes, definiciones y comparabilidad.
 - `2_Datos`: insumos locales y correspondencias documentadas.
-- `3_Procedimientos`: revisión, preparación, armonización y análisis.
+- `3_Códigos`: revisión, preparación, armonización y análisis.
 - `4_Resultados`: productos generados y verificados.
 - `5_Notas_de_investigacion`: interpretación, límites y nuevas preguntas.
 
