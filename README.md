@@ -28,11 +28,13 @@ Los años identifican fuentes previstas; no implican una serie anual homogénea 
 
 ## Organización
 
-- `1_Preguntas_y_documentacion`: preguntas, fuentes, definiciones y comparabilidad.
-- `2_Datos`: insumos locales y correspondencias documentadas.
-- `3_Códigos`: revisión, preparación, armonización y análisis.
-- `4_Resultados`: productos generados y verificados.
-- `5_Notas_de_investigacion`: interpretación, límites y nuevas preguntas.
+| Carpeta | Contenido |
+|---------|-----------|
+| [1_Preguntas_y_documentacion](1_Preguntas_y_documentacion/) | Preguntas, fuentes, definiciones y comparabilidad. |
+| [2_Datos](2_Datos/) | Insumos locales y correspondencias documentadas. |
+| [3_Códigos](3_Códigos/) | Revisión, preparación, armonización y análisis. |
+| [4_Resultados](4_Resultados/) | Productos generados y verificados. |
+| [5_Notas_de_investigacion](5_Notas_de_investigacion/) | Interpretación, límites y nuevas preguntas. |
 
 ## Autoría y uso
 
