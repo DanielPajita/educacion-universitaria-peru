@@ -10,14 +10,6 @@ Este proyecto es independiente de la tesis y se vincula con la línea de educaci
 
 Describir la distribución territorial y por áreas de formación de la población universitaria, según la información que efectivamente contenga cada fuente. La pregunta y cobertura definitivas se fijarán tras revisar bases, cuestionarios y diccionarios.
 
-## Cómo recorrer el proyecto
-
-1. Consultar las preguntas y las fuentes en [Documentación](1_Preguntas_y_documentacion/Agenda_de_exploracion.md).
-2. Revisar las condiciones de [comparabilidad](1_Preguntas_y_documentacion/Comparabilidad_entre_fuentes.md).
-3. Preparar los insumos siguiendo [las instrucciones de datos](2_Datos/README.md).
-4. Desarrollar los procedimientos en su orden numérico.
-5. Consultar cuadros, gráficos y mapas en `4_Resultados` y su interpretación en `5_Notas_de_investigacion`.
-
 ## Fuentes previstas
 
 - Censo universitario 1996: archivos disponibles según el investigador; versión y cobertura por verificar.
