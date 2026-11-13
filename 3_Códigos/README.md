@@ -12,5 +12,3 @@ Los códigos se guardan directamente en esta carpeta, con una numeración inicia
 ## Uso
 
 Los notebooks utilizan Python, pandas y pyreadstat; la exploración también importa matplotlib y seaborn. Antes de ejecutarlos, revisar las rutas locales de las fuentes. Ejecutar las celdas de cada notebook en orden.
-
-Las comparaciones entre fuentes requieren revisar las diferencias de cobertura, unidad de observación y definiciones documentadas en el proyecto.
