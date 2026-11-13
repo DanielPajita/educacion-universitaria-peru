@@ -2,9 +2,8 @@
 
 Exploración de la educación universitaria peruana con los censos universitarios de 1996 y 2010 y archivos identificados por el investigador como TUNI 2020–2025.
 
-**Estado:** preparación del proyecto. Las bases todavía no se han incorporado ni examinado. No hay resultados empíricos ni comparabilidad certificada.
+**Estado:** preparación del proyecto.
 
-Este proyecto es independiente de la tesis y se vincula con la línea de educación y mercado laboral de la agenda de investigación.
 
 ## Objetivo inicial
 
