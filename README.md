@@ -26,9 +26,3 @@ Los años identifican fuentes previstas; no implican una serie anual homogénea 
 | [3_Códigos](3_Códigos/) | Revisión, preparación, armonización y análisis. |
 | [4_Resultados](4_Resultados/) | Productos generados y verificados. |
 | [5_Notas_de_investigacion](5_Notas_de_investigacion/) | Interpretación, límites y nuevas preguntas. |
-
-## Autoría y uso
-
-Responsable del proyecto: Daniel Pajita, según la identificación proporcionada en esta conversación. Revisar la atribución antes de publicar.
-
-No se ha seleccionado una licencia de reutilización. Las fuentes conservan sus respectivas condiciones de uso. Este proyecto no concede derechos sobre datos de terceros.
