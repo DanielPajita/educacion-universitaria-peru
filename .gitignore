@@ -10,3 +10,4 @@
 ~$*
 Thumbs.db
 .DS_Store
+!/2_Datos/Correspondencias_entre_clasificaciones/*.txt

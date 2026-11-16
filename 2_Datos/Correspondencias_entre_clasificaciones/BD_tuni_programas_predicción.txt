@@ -1,0 +1,276 @@
+nivel_academico|codigo_grupo_1|nombre_grupo_1|codigo_grupo_3|nombre_grupo_3|nombre_programa
+Pregrado|||||Administración - Marketing y Negocios Internacionales
+Pregrado|||||Administración Hotelera, Turismo, Ecoturismo y Gastronomía
+Pregrado|||||Administración de Redes y Seguridad Informática
+Pregrado|||||Administración de Servicios Turísticos
+Pregrado|||||Administración y Gestión de Empresas
+Pregrado|||||Administración y Negocios Internacionales Modalidad de Estudios A Distancia
+Pregrado|||||Arquitectura y Gerencia de Proyectos
+Pregrado|||||Artes Plásticas y Visuales, Especialidad de Cerámica
+Pregrado|||||Artes Plásticas y Visuales, Especialidad de Escultura
+Pregrado|||||Artes Plásticas y Visuales, Especialidad de Grabado
+Pregrado|||||Artes Plásticas y Visuales, Especialidad de Pintura
+Pregrado|||||Artes Plásticas y Visuales, con la Especialidad de Conservación y Restauración
+Pregrado|||||Artes Plásticas y Visuales, con la Especialidad de Escultura
+Pregrado|||||Artes Plásticas y Visuales, con la Especialidad de Grabado
+Pregrado|||||Artes Plásticas y Visuales, con la Especialidad de Pintura
+Pregrado|||||Artes Visuales, Especialidad en Dibujo y Cerámica
+Pregrado|||||Artes Visuales, Especialidad en Dibujo y Escultura
+Pregrado|||||Artes Visuales, Especialidad en Dibujo y Grabado y Diseño Gráfico
+Pregrado|||||Artes Visuales, Especialidad en Dibujo y Pintura
+Pregrado|||||Artista Músico con Especialidad en Ejecución Instrumental y Canto
+Pregrado|||||Artista Profesional – Especialidad: Actuación Teatral
+Pregrado|||||Artista con Especialidad en Artes Plásticas y Visuales (Pintura, Escultura, Grabado, Cerámica)
+Pregrado|||||Carrera Profesional de Arquitectura
+Pregrado|||||Carrera Profesional de Ciencias Administrativas y Marketing Estratégico
+Pregrado|||||Carrera Profesional de Ciencias de la Educación con especialidad en Educación Primaria
+Pregrado|||||Carrera Profesional de Contabilidad
+Pregrado|||||Carrera Profesional de Derecho
+Pregrado|||||Carrera Profesional de Ingeniería Civil
+Pregrado|||||Carrera Profesional de Ingeniería Comercial
+Pregrado|||||Carrera Profesional de Ingeniería Mecánica Eléctrica
+Pregrado|||||Carrera Profesional de Ingeniería de Sistemas e Informática
+Pregrado|||||Carrera Profesional de Obstetricia
+Pregrado|||||Carrera Profesional de Odontología
+Pregrado|||||Carrera Profesional de Tecnología Médica en la Especialidad de Laboratorio Clínico
+Pregrado|||||Carrera de Tecnología para Urgencias Médicas y Desastres
+Maestría|||||Ciencia Política
+Maestría|||||Ciencia Política y Gobierno
+Maestría|||||Ciencia Política y Gobierno con mención en Relaciones Internacionales
+Pregrado|||||Ciencias Biológicas y Química
+Pregrado|||||Ciencias Contables y Finanzas
+Pregrado|||||Ciencias Militares con Especialidad en Artillería
+Pregrado|||||Ciencias Militares con Especialidad en Caballería
+Pregrado|||||Ciencias Militares con Especialidad en Comunicaciones
+Pregrado|||||Ciencias Militares con Especialidad en Infantería
+Pregrado|||||Ciencias Militares con Especialidad en Ingeniería
+Pregrado|||||Ciencias Militares con Especialidad en Inteligencia e Intendencia con la Mención en Administración
+Pregrado|||||Ciencias Militares con Especialidad en Material de Guerra con la Mención en Ingeniería
+Pregrado|||||Ciencias de la Educación, Nivel Secundaria. Especialidad Historia y Ciencias Sociales
+Pregrado|||||Ciencias de la Educación, Nivel Secundaria. Especialidad Matemática y Física
+Pregrado|||||Ciencias de la Educación. Nivel Secundaria. Especialidad Lengua Inglesa
+Segunda especialidad|||||Cirugía Bucal y Máxilo Facial
+Segunda especialidad|||||Cirugía Ortopédica y Traumatología
+Pregrado|||||Complementación Pedagógica y Universitaria
+Pregrado|||||Contabilidad y Finanzas Corporativas con mención en Finanzas Corporativas
+Pregrado|||||Contabilidad y Gestión Tributaria
+Maestría|||||Derecho con mención en Derecho Civil y Procesal Civil
+Maestría|||||Derecho con mención en Derecho Constitucional y Derechos Humanos
+Maestría|||||Derecho con mención en Derecho Penal y Procesal Penal
+Maestría|||||Derecho con mención en Derecho del Trabajo y de la Seguridad Social
+Maestría|||||Derecho de Los Negocios
+Doctorado|||||Doctorado en Administración con mención en Tecnología
+Doctorado|||||Doctorado en Business Administration – DBA
+Doctorado|||||Doctorado en Ciencias Marítimas
+Doctorado|||||Doctorado en Ciencias e Ingeniería de Petróleo y Gas Natural
+Doctorado|||||Doctorado en Derechos Fundamentales
+Doctorado|||||Doctorado en Educación con mención en Gestión y Ciencias de la Educación
+Doctorado|||||Doctorado en Nutrición y Alimentos
+Doctorado|||||Doctorado en Salud
+Pregrado|||||Ecología
+Pregrado|||||Economía y Negocios Internacionales con mención en Negocios Internacionales
+Pregrado|||||Educación Artística con Especialidad en Educación Musical
+Pregrado|||||Educación Artística – Especialidad: Danzas Folklóricas
+Pregrado|||||Educación Artística – Especialidad: Teatro
+Pregrado|||||Educación Artística, Especialidad Artes Plásticas y Visuales
+Pregrado|||||Educación Especialidad Lengua, Literatura y Gestión Educativa
+Pregrado|||||Educación Inicial - PCPM
+Pregrado|||||Educación Inicial y Primaria
+Pregrado|||||Educación Primaria - PCPM
+Pregrado|||||Educación Secundaria Especialidad de: Biología y Química
+Pregrado|||||Educación Secundaria Especialidad de: Computación e Informática
+Pregrado|||||Educación Secundaria Especialidad de: Lengua y Literatura
+Pregrado|||||Educación Secundaria Especialidad de: Matemática y Física
+Pregrado|||||Educación Secundaria con Especialidad en Filosofía y Ciencias Sociales
+Pregrado|||||Educación Secundaria con Especialidad en Informática
+Pregrado|||||Educación Secundaria con Especialidad en Matemática y Física
+Pregrado|||||Educación Secundaria con especialidad en Historia y Geografía
+Pregrado|||||Educación Secundaria en la Especialidad de Ciencia, Tecnología y Ambiente
+Pregrado|||||Educación Secundaria en la Especialidad de Educación para el Trabajo con mención en Artesanía
+Pregrado|||||Educación Secundaria en la Especialidad de Lengua, Literatura y Comunicaciones
+Pregrado|||||Educación Secundaria en la especialidad de Educación Artística con mención en Artes Plásticas
+Pregrado|||||Educación Secundaria en la especialidad de Educación Física
+Pregrado|||||Educación Secundaria en la especialidad de Educación para el Trabajo con mención en Industria Alimentaria
+Pregrado|||||Educación Secundaria en la especialidad de Historia, Geografía y Ciencias Sociales
+Pregrado|||||Educación Secundaria en la especialidad de Idiomas con mención en Inglés - Francés
+Pregrado|||||Educación Secundaria en la especialidad de Matemática, Física y Computación
+Pregrado|||||Educación Secundaria en la especialidad de Matemáticas
+Pregrado|||||Educación Secundaria, Especialidad Historia, Geografía y Ciencias Sociales
+Pregrado|||||Educación Secundaria, Especialidad Lengua, Literatura y Comunicación
+Pregrado|||||Educación Semiescolarizada especialidad Biología, Química y Tecnología de Alimentos
+Pregrado|||||Educación con especialidad de Lengua Española - Literatura
+Pregrado|||||Educación con mención en Educación Artística
+Pregrado|||||Educación en Idiomas
+Pregrado|||||Educación especialidad Ciencias Sociales y Promoción Socio-Cultural
+Pregrado|||||Educación especialidad Computación e Informática y Matemática
+Pregrado|||||Educación especialidad Idioma Extranjero, Traductor e Intérprete
+Pregrado|||||Educación para el Desarrollo
+Pregrado|||||Educación, Especialidad Educación Física
+Pregrado|||||Educación, Especialidad Matemática e Informática
+Pregrado|||||Educación, Especialidad Musical y Artes
+Pregrado|||||Educación: Especialidad Idioma Extranjero Inglés
+Pregrado|||||Gestión Ambiental Empresarial
+Pregrado|||||Gestión Cultural
+Maestría|||||Gestión Pública de Los Recursos Hídricos
+Pregrado|||||Gestión del Turismo y la Hospitalidad
+Maestría|||||Gestión por Procesos y Analytics
+Pregrado|||||Idioma Inglés - PCPM
+Pregrado|||||Informática Educativa
+Pregrado|||||Ingeniería Agraria
+Pregrado|||||Ingeniería Agroindustrial y Agronegocios
+Pregrado|||||Ingeniería Agroindustrial y Negocios Internacionales
+Pregrado|||||Ingeniería Civil Ambiental
+Pregrado|||||Ingeniería Comercial y Financiera
+Pregrado|||||Ingeniería Económica y Empresarial
+Pregrado|||||Ingeniería Logística y Cadena de Suministro Digital
+Pregrado|||||Ingeniería Teleinformática
+Pregrado|||||Ingeniería de Diseño Computacional
+Pregrado|||||Ingeniería de Sistemas Empresariales
+Pregrado|||||Ingeniería de Sistemas de Información y Gestión
+Pregrado|||||Ingeniería de Sistemas y Telemática
+Pregrado|||||Ingeniería de Transportes y Sistemas Ferroviarios
+Pregrado|||||Ingeniería de la Producción y Administración
+Pregrado|||||Ingeniería en Biosistemas
+Pregrado|||||Laboratorio y Anatomía Patológica
+Maestría|||||Maestría Administración con mención en Administración
+Maestría|||||Maestría Ciencias Veterinarias con Mención en Producción y Patología Aviar
+Maestría|||||Maestría Contabilidad con Mención en Gestión Estratégica de Costos y Presupuestos
+Maestría|||||Maestría Nutrición
+Maestría|||||Maestría Política Social
+Maestría|||||Maestría Profesional en Gestión de Negocios Internacionales
+Maestría|||||Maestría Sociología
+Maestría|||||Maestría de Especialización en Computer Science
+Maestría|||||Maestría de Especialización en Políticas Sociales con mención en Promoción de las Infancias
+Maestría|||||Maestría de Formación Permanente Internacional en Bioética y Profesionalismo Sanitario
+Maestría|||||Maestría en Administración Marítima, Portuaria y Pesquera
+Maestría|||||Maestría en Administración con especialización en Innovación de la Salud
+Maestría|||||Maestría en Administración con especialización en Innovación en Minería
+Maestría|||||Maestría en Administración con mención en Gerencia Pública
+Maestría|||||Maestría en Administración de Empresas y Negocios - MBA
+Maestría|||||Maestría en Administración de Negocios, Industrias Alimentarias y Consumo Masivo - MBA
+Maestría|||||Maestría en Administración y Gestión Estratégica con mención en Gerencia de Recursos Humanos
+Maestría|||||Maestría en Administración y Gestión Estratégica con mención en Gestión Educativa
+Maestría|||||Maestría en Administración, Mención: Gestión del Talento Humano
+Maestría|||||Maestría en Agroecología y Silvicultura Tropical con Mención en Salud Ecosistémica
+Maestría|||||Maestría en Analítica de Datos e Inteligencia Artificial
+Maestría|||||Maestría en Auditoría Integral y Gestión de Riesgos
+Maestría|||||Maestría en Ciencia Política con Mención en Gestión Pública
+Maestría|||||Maestría en Ciencias - Tributación y Asesoría Fiscal
+Maestría|||||Maestría en Ciencias Contables y Financieras con mención en Finanzas y Gestión de Negocios
+Maestría|||||Maestría en Ciencias Militares con mención en Planeamiento Estratégico y Toma de Decisiones
+Maestría|||||Maestría en Ciencias con Mención en Control y Auditoría en la Gestión Gubernamental
+Maestría|||||Maestría en Ciencias con mención en Biología Molecular y Bioquímica Clínica
+Maestría|||||Maestría en Ciencias con mención en Docencia Universitaria e Investigación Educativa
+Maestría|||||Maestría en Ciencias con mención en Gerencia de Servicios de Salud
+Maestría|||||Maestría en Ciencias con mención en Ingeniería Ambiental
+Maestría|||||Maestría en Ciencias de la Educación con mención en Docencia y Gestión Educativa
+Maestría|||||Maestría en Ciencias de la Educación con mención en Estimulación Temprana
+Maestría|||||Maestría en Ciencias de la Educación con mención en Psicología Educativa y Tutoría Escolar
+Maestría|||||Maestría en Ciencias de la Educación, mención en Gestión y Docencia Educativa
+Maestría|||||Maestría en Ciencias de la Familia
+Maestría|||||Maestría en Ciencias de la Salud con Mención en Salud Publica
+Maestría|||||Maestría en Ciencias de la Salud con Mención en: Gestión en Servicios de Salud
+Maestría|||||Maestría en Ciencias de la Salud con mención en Gestión de los Servicios de Salud
+Maestría|||||Maestría en Comunicación Digital y Corporativa
+Maestría|||||Maestría en Comunicación con Mención en Periodismo y Comunicación Social
+Maestría|||||Maestría en Contabilidad con mención en Auditoría y Control Interno
+Maestría|||||Maestría en Contrataciones del Estado
+Maestría|||||Maestría en Data Science e Inteligencia Artificial
+Maestría|||||Maestría en Deporte y Educación Física
+Maestría|||||Maestría en Derecho con mención en Derecho Civil Empresarial
+Maestría|||||Maestría en Derecho con mención en Derecho Civil y Procesal Civil
+Maestría|||||Maestría en Derecho con mención en Derecho Constitucional
+Maestría|||||Maestría en Derecho con mención en Derecho Laboral
+Maestría|||||Maestría en Derecho con mención en Derecho Penal y Ciencias Criminológicas
+Maestría|||||Maestría en Derecho con mención en Derecho Procesal Penal y Litigación Oral
+Maestría|||||Maestría en Derecho y Ciencias Políticas, Mención: en Ciencias Penales
+Maestría|||||Maestría en Derecho y Ciencias Políticas, Mención: en Derecho Civil y Comercial
+Maestría|||||Maestría en Dirección Estratégica de Contenidos
+Maestría|||||Maestría en Dirección Estratégica de Negocios Gastronómicos y Hoteleros
+Maestría|||||Maestría en Dirección de Tecnologías de la Información – Chief Technology Officer (CTO)
+Maestría|||||Maestría en Economía con mención en Proyectos de Inversión
+Maestría|||||Maestría en Educación Inclusiva con Atención a la Diversidad
+Maestría|||||Maestría en Educación Inclusiva y Necesidades Especiales de Aprendizaje
+Maestría|||||Maestría en Educación con Mención en: Docencia Médica e Investigación
+Maestría|||||Maestría en Educación con Mención en: Docencia en Educación Superior
+Maestría|||||Maestría en Educación con mención en Docencia Universitaria e Investigación Pedagógica
+Maestría|||||Maestría en Educación con mención en Docencia Universitaria y Gestión Educativa
+Maestría|||||Maestría en Educación con mención en Docencia e Investigación en Didáctica del Idioma Inglés
+Maestría|||||Maestría en Educación con mención en Docencia y Gestión de la Calidad
+Maestría|||||Maestría en Educación con mención en Docencia, Currículo e Investigación
+Maestría|||||Maestría en Educación con mención en Gestión Pública
+Maestría|||||Maestría en Educación con mención: Gestión Educativa y Acreditación de la Calidad
+Maestría|||||Maestría en Enfermería de Práctica Avanzada en Atención Primaria y Salud Comunitaria
+Maestría|||||Maestría en Evaluación y Acreditación de la Calidad de Instituciones Educativas
+Maestría|||||Maestría en Farmacia y Bioquímica con mención en Farmacia Clínica y Atención Farmacéutica
+Maestría|||||Maestría en Farmacovigilancia y Regulación de Medicamentos
+Maestría|||||Maestría en Filosofía con mención en Ética y Desarrollo Humano
+Maestría|||||Maestría en Gestión Estratégica de Personas
+Maestría|||||Maestría en Gestión Estratégica y Dirección de Consultorios de Enfermería
+Maestría|||||Maestría en Gestión Naviera
+Maestría|||||Maestría en Gestión Pública y Gobierno
+Maestría|||||Maestría en Gestión de Farmacias y Servicios Farmacéuticos
+Maestría|||||Maestría en Gestión de Tecnologías de Información
+Maestría|||||Maestría en Gestión de la Calidad en Empresas Agrarias
+Maestría|||||Maestría en Gestión de la Construcción y BIM
+Maestría|||||Maestría en Gestión de las Organizaciones
+Maestría|||||Maestría en Gobierno y Gestión de la Seguridad Digital
+Maestría|||||Maestría en Gobierno, Gestión e Innovación en Educación Superior
+Maestría|||||Maestría en Informática: Mención Inteligencia Artificial
+Maestría|||||Maestría en Informática: Mención Tecnología Educativa
+Maestría|||||Maestría en Ingeniería Civil con Mención en: Ingeniería de Transportes
+Maestría|||||Maestría en Ingeniería Mecánica con mención en Gestión de Mantenimiento
+Maestría|||||Maestría en Medicina con mención en Formación Médica
+Maestría|||||Maestría en Planificación y Ordenamiento Territorial
+Maestría|||||Maestría en Psicología del Deporte y de la Actividad Física
+Maestría|||||Maestría en Psicología, Mención: Prevención e Intervención en Niños y Adolescentes
+Maestría|||||Maestría en Tecnopedagogía e Innovación con Inteligencia Artificial
+Pregrado|||||Marina Mercante en su Especialidad de Maquinas
+Pregrado|||||Marina Mercante en su Especialidad de Puente
+Pregrado|||||Marketing y Publicidad
+Pregrado|||||Meteorología
+Pregrado|||||Ministerio Pastoral
+Maestría|||||Máster en Dirección de Empresas A Tiempo Parcial para Ejecutivos Jóvenes
+Pregrado|||||Negocios Globales
+Pregrado|||||Programa De Complementación Pedagógica (PCP)
+Pregrado|||||Programa De Complementación Pedagógica Y Universitaria (PCPU)
+Maestría|||||Programa MBA en Gestión Integral del Agua
+Maestría|||||Programa de Maestría en Administración y Gestión Estratégica con mención en Gerencia Pública
+Maestría|||||Programa de Maestría en Ciencias Contables y Financieras con mención en Auditoría Integral
+Maestría|||||Programa de Maestría en Ciencias con mención en Ingeniería Ambiental
+Maestría|||||Programa de Maestría en Ciencias de la Educación con mención en Docencia Superior e Investigación
+Maestría|||||Programa de Maestría en Derecho con mención en Ciencias Penales
+Maestría|||||Programa de Maestría en Salud Pública con mención en Gerencia de Servicios y Promoción de la Salud
+Segunda especialidad|||||Programa de Segunda Especialidad de Enfermería, con Mención en: Cuidados Intensivos – Neonatología
+Segunda especialidad|||||Programa de Segunda Especialidad en Enfermería con Mención en: Cuidados Intensivos – Adulto
+Segunda especialidad|||||Segunda Especialidad Profesional en Derecho Público
+Segunda especialidad|||||Segunda Especialidad Profesional en Enfermería en Nefrología
+Segunda especialidad|||||Segunda Especialidad Profesional en Farmacovigilancia y Tecnovigilancia
+Segunda especialidad|||||Segunda Especialidad Profesional en Medicina en Emergencias y Desastres
+Segunda especialidad|||||Segunda Especialidad Profesional en Neuropsicología
+Segunda especialidad|||||Segunda Especialidad Profesional en Nutrición Renal
+Segunda especialidad|||||Segunda Especialidad Profesional en Oftalmología
+Segunda especialidad|||||Segunda Especialidad Profesional en Psicología Social Comunitaria
+Segunda especialidad|||||Segunda Especialidad Profesional en Psicoterapia Contextual Conductual
+Segunda especialidad|||||Segunda Especialidad en Derecho Registral
+Segunda especialidad|||||Segunda Especialidad en Derecho de Protección al Consumidor
+Segunda especialidad|||||Segunda Especialidad en Didáctica Universitaria con Mención en Ciencias Administrativas y Contables
+Segunda especialidad|||||Segunda Especialidad en Didáctica Universitaria con Mención en Educación
+Segunda especialidad|||||Segunda Especialidad en Didáctica Universitaria con Mención en Ingeniería
+Segunda especialidad|||||Segunda Especialidad en Educación Inicial y Atención Integral de la Primera Infancia de 3 a 5 años
+Segunda especialidad|||||Segunda Especialidad en Implantología Oral Integral – ABO
+Segunda especialidad|||||Segunda Especialidad en Odontología, Especialidad Ortodoncia y Ortopedia Maxilar
+Segunda especialidad|||||Segunda Especialidad en: Gestión de la Construcción con BIM
+Pregrado|||||Sicología
+Pregrado|||||Sin información
+Maestría|||||Sociología con Mención en Políticas Sociales
+Segunda especialidad|||||Sub Especialidad en Endocrinología Pediátrica
+Segunda especialidad|||||Subespecialidad en Ginecología Oncológica
+Pregrado|||||Tecnología Medica con Mención en Radiología
+Pregrado|||||Tecnología Médica en la Especialidad de Laboratorio Clínico y Anatomía Patológica
+Pregrado|||||Tecnología Médica, con especialidad en Laboratorio Clínico y Anatomía Patológica
+Pregrado|||||Tecnología Médica, con especialidad en Terapia Física y Rehabilitación
+Pregrado|||||Tecnología Médica-Especialidad Terapia Física
+Pregrado|||||Tecnología Médica: Fisioterapia y Rehabilitación
+Pregrado|||||Titulación en Educación en la Modalidad de Egresados de Institutos Superiores Pedagógicos, Escuelas Superiores o Escuelas Normales y Egresados y/o Bachilleres en Otras Carreras Distintas a Educación, Sin Título Profesional; para Optar el Grado de Bachiller y la Licenciatura en Educación
+Pregrado|||||Turismo y Hostelería
