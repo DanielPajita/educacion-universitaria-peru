@@ -1,13 +1,13 @@
 # Educación universitaria en el Perú
 
-Exploración de la educación universitaria peruana con los censos universitarios de 1996 y 2010 y archivos identificados por el investigador como TUNI 2020–2025.
+Exploración de la educación universitaria peruana con los censos universitarios de 1996 y 2010 y la información administrativa del portal TUNI.
 
 **Estado:** preparación del proyecto.
 
 
 ## Objetivo inicial
 
-Describir la distribución territorial y por áreas de formación de la población universitaria, según la información que efectivamente contenga cada fuente. La pregunta y cobertura definitivas se fijarán tras revisar bases, cuestionarios y diccionarios.
+Describir la distribución territorial y por áreas de formación de la población universitaria, según la información que efectivamente contenga cada fuente.
 
 ## Fuentes previstas
 
@@ -15,7 +15,6 @@ Describir la distribución territorial y por áreas de formación de la poblaci�
 - Censo universitario 2010: archivos disponibles según el investigador; versión y cobertura por verificar.
 - TUNI 2020–2025: nombre completo, institución responsable, contenido y unidad de observación pendientes de confirmar.
 
-Los años identifican fuentes previstas; no implican una serie anual homogénea ni seguimiento de las mismas personas.
 
 ## Organización
 
