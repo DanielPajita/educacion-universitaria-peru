@@ -11,3 +11,6 @@
 Thumbs.db
 .DS_Store
 !/2_Datos/Correspondencias_entre_clasificaciones/*.txt
+!/2_Datos/Censo_1996/*.txt
+!/2_Datos/Censo_2010/*.txt
+!/2_Datos/TUNI_2020_2025/*.txt
