@@ -2,7 +2,7 @@
 
 Esta carpeta reúne los notebooks utilizados para explorar, preparar y armonizar la información de los censos universitarios de 1996 y 2010 y de los registros administrativos del portal TUNI. El trabajo incluye la identificación y clasificación de programas académicos y la construcción de bases de análisis de pregrado y posgrado.
 
-Los archivos se identifican mediante una numeración inicial y un nombre descriptivo. La numeración agrupa etapas de trabajo, pero no establece un orden de ejecución estrictamente secuencial, ya que algunos notebooks generan insumos que posteriormente se incorporan a las bases de cada fuente.
+Los notebooks se organizan mediante una numeración inicial que identifica las etapas de trabajo: exploración de fuentes (01), preparación y armonización de datos (02) y análisis de resultados (03). Esta numeración no representa necesariamente un orden secuencial de ejecución, ya que algunos archivos comparten insumos y resultados.
 
 ## Contenido
 
